@@ -1,1 +1,1 @@
-# thrall-space.github.io
+# ThrallSpace
